@@ -1,5 +1,7 @@
-a=6
-b=5
-c=8
+a=61
+b=52
+c=84
+
 sum = a+b+c
+
 print sum
